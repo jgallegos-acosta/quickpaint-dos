@@ -22,7 +22,7 @@ It features a windowed interface, menus, dialogs, and a full suite of drawing to
 
 
 ## 📦 Downloads
-[![Latest Release](https://img.shields.io/github/v/release/<user>/<repo>?label=Download%20Latest)](https://github.com/jgallegos-acosta/quickpaint-dos/releases/tag/Release)
+[![Latest Release](https://img.shields.io/github/v/release/<user>/<repo>?label=Download%20Latest)](https://github.com/jgallegos-acosta/quickpaint-dos/releases)
 
 
 [![Download QPAINT040.ZIP](https://img.shields.io/badge/Download-QPAINT040.ZIP-blue?style=for-the-badge)](https://github.com/jgallegos-acosta/quickpaint-dos/releases/download/Release/QPAINT040.zip)
