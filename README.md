@@ -15,7 +15,8 @@ v# 🖌️ Quick Paint (QuickBasic 4.5)
 **Quick Paint** is a complete paint environment for DOS, using **SCREEN 12 (640×480, 16 colors)**.  
 It features a windowed interface, menus, dialogs, and a full suite of drawing tools inspired by MS Paint — but entirely coded in **QuickBasic 4.5**.
 
-![Quick Paint — SCREEN 12 UI](screenshots/quickpaint_screen12.png)
+![Quick Paint — SCREEN 12 UI](<img width="935" height="704" alt="image" src="https://github.com/user-attachments/assets/8a39c89a-5f0c-4956-95b5-4ace79c58b1b" />
+)
 
 ---
 
