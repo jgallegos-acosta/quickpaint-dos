@@ -31,8 +31,6 @@ It features a windowed interface, menus, dialogs, and a full suite of drawing to
 - **Quick Paint for FreeDOS** — get the latest ZIP from the Releases page.
 - Checksums (SHA-256) will be attached as assets per release.
 
-> Replace `<user>/<repo>` above with your GitHub owner and repository.
-
 ---
 
 ## 🧱 Project Structure
